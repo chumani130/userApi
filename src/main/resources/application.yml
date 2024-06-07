@@ -1,0 +1,8 @@
+
+# PostgreSQL connection parameters
+database:
+  host: localhost            # PostgreSQL host (replace with actual host if not running locally)
+  port: 5432                 # PostgreSQL port
+  name: my_database          # Name of the PostgreSQL database
+  user: my_user              # PostgreSQL username
+  password: my_password      # PostgreSQL password
